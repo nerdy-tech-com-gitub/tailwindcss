@@ -36,7 +36,7 @@
     "picocolors": "^1.0.1",
     "postcss": "^8.4.41",
     "postcss-import": "^16.1.0",
-    "postcss-selector-parser": "^6.1.2",
+    "postcss-selector-parser": "^7.0.0",
     "prettier": "^3.3.3",
     "string-byte-slice": "^3.0.0",
     "tailwindcss": "workspace:^"
