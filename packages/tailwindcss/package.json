@@ -90,6 +90,6 @@
     "@tailwindcss/oxide": "workspace:^",
     "@types/node": "catalog:",
     "lightningcss": "catalog:",
-    "dedent": "1.5.3"
+    "dedent": "1.7.0"
   }
 }
